@@ -1,16 +1,4 @@
-# movie_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# movie_ui A new Flutter project. 
+Movie _Ui Application
+![jnsndjsd](https://user-images.githubusercontent.com/112031810/187087867-ff46e617-efb4-4662-8597-16b1c44d8783.png)
+![jjnlj](https://user-images.githubusercontent.com/112031810/187087868-35a918af-9884-4e70-a74b-cf1b78afc9f3.png)
